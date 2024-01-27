@@ -1,4 +1,4 @@
-### Hi there 👋I Am Muhammad Akasha Currently Learning Web And Mobile App Devolopment.
+### Hi there 👋I Am Muhammad Akasha Currently Learning Web And Mobile App Development.
 
 <!--
 **muhammad-akasha/muhammad-akasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
