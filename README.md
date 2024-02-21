@@ -1,7 +1,6 @@
 ### Hi there 👋I Am Muhammad Akasha Currently Learning Web And Mobile App Development.
 
-  [![HitCount](https://hits.dwyl.com/muhammad-akasha/ muhammad-akasha.svg?style=flat-square)](http://hits.dwyl.com/muhammad-akasha/ muhammad-akasha)
-
+   [![HitCount](https://hits.dwyl.com/muhammad-akasha/ muhammad-akasha.svg?style=flat-square&show=unique)](http://hits.dwyl.com/muhammad-akasha/ muhammad-akasha)
 
 
 
