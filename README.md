@@ -1,10 +1,6 @@
 ### Hi there 👋I Am Muhammad Akasha Currently Learning Web And Mobile App Development.
 ![](https://komarev.com/ghpvc/?username=your-github-muhammad-akasha)
- ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
- ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
- ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
- ![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
- ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+
 
 
 
