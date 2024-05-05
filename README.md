@@ -20,10 +20,10 @@
  <a href="https://www.w3.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="javascript" width="50" height="50"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-akasha&show_icons=true&locale=en&layout=compact" alt="muhammad-akasha" /></p>
-<!-- - ⚡ Fun fact: learning coding. -->
-
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-akasha&show_icons=true&locale=en&layout=compact" alt="muhammad-akasha" /></p>
+ - ⚡ Fun fact: learning coding. -->
+<br><br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammad-akasha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-akasha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-akasha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=muhammad-akasha&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-akasha&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-akasha&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
