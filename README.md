@@ -16,10 +16,12 @@
 
 <!--  How to reach me:https://www.linkedin.com/in/akasha-ahmed-1aa7042a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
- <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="javascript" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcr9ErjixrOB4brfXICewuiMmzsvkUJ4jlHg&s" alt="typescript" width="50" height="50"/></a>
-</p>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+</div>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-akasha&show_icons=true&locale=en&layout=compact" alt="muhammad-akasha" /></p>
  - ⚡ Fun fact: learning coding. -->
